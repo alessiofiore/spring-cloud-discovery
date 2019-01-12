@@ -1,2 +1,2 @@
 # spring-cloud
-Spring Cloud projects
+Discovery service with Eureka server
