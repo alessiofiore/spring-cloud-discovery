@@ -1,3 +1,2 @@
-# spring-cloud
-Spring Cloud projects
 # spring-cloud-discovery
+Discovery service with Eureka server
